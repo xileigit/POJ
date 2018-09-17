@@ -64,7 +64,7 @@ void solveBlack(){
 int main(){
 	for(int i=1;i<=17;++i){
 		scanf("%s",chessBoard[i]+1);
-	}
+	} 
 	printf("White: ");
 	solveWhite();
 	printf("Black: ");
