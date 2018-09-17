@@ -1,7 +1,7 @@
 #include<cstdio>
 #include<cmath>
 const int MAX=310;
-int queue[MAX];
+int queue[MAX]; 
 int n;
 int cnt;
 //put POSth row
